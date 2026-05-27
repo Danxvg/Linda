@@ -74,7 +74,7 @@ window.addEventListener("scroll", () => {
 const counter = document.getElementById("songCounter");
 
 let start = 0;
-let end = 2;
+let end = 3;
 
 const counterAnimation = setInterval(() => {
 
